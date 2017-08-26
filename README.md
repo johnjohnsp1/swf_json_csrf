@@ -3,8 +3,8 @@ This repository was created to simplify the SWF-based JSON CSRF exploitation
 
 ## Instructions
 The .swf file take 3 parameters:
-1) **jsonData** - 
-2) **php_url** - URL of the 307 redirector.
+1) **jsonData** - apparently, JSON Data:)
+2) **php_url** - URL of the 307 redirector php file.
 3) **endpoint** - target endpoint, which is vulnerable to CSRF.
 
 Example call:
