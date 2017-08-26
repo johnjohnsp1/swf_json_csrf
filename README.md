@@ -19,4 +19,4 @@ Related blog posts about this:
 * http://www.geekboy.ninja/blog/exploiting-json-cross-site-request-forgery-csrf-using-flash/
 * http://research.rootme.in/forging-content-type-header-with-flash/
 
-## Commits and bug reports are welcome!
+## Commits, PRs and bug reports are welcome!
