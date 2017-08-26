@@ -15,3 +15,5 @@ https://yourhost.com/test.swf?jsonData={"test":1}&php_url=https://yourhost.com/t
 
 ## Thanks
 Special thanks to the https://twitter.com/emgeekboy, who inspired me to make this repository
+
+## Commits and bug reports are welcome!
