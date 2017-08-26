@@ -18,5 +18,6 @@ Special thanks to the https://twitter.com/emgeekboy, who inspired me to make thi
 Related blog posts about this: 
 * http://www.geekboy.ninja/blog/exploiting-json-cross-site-request-forgery-csrf-using-flash/
 * http://research.rootme.in/forging-content-type-header-with-flash/
+* http://resources.infosecinstitute.com/bypassing-csrf-protections-fun-profit/#gref
 
 ## Commits, PRs and bug reports are welcome!
