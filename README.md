@@ -7,6 +7,8 @@ The .swf file take 3 parameters:
 2) **php_url** - URL of the 307 redirector php file.
 3) **endpoint** - target endpoint, which is vulnerable to CSRF.
 
+Place test.swf, test.php and crossdomain.xml on your host, then simply call the SWF file with the correct parameters.
+
 Example call:
 https://yourhost.com/test.swf?jsonData={"test":1}&php_url=https://yourhost.com/test.php&endpoint=https://targethost.com/endpoint
 
