@@ -14,6 +14,7 @@ https://yourhost.com/test.swf?jsonData={"test":1}&php_url=https://yourhost.com/t
 
 
 ## Thanks
-Special thanks to the https://twitter.com/emgeekboy, who inspired me to make this repository
+Special thanks to the https://twitter.com/emgeekboy, who inspired me to make this repository.
+Related blog post about this: http://www.geekboy.ninja/blog/exploiting-json-cross-site-request-forgery-csrf-using-flash/
 
 ## Commits and bug reports are welcome!
